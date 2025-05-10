@@ -1,0 +1,31 @@
+---
+
+### 6. 首页 `index.html`
+```html
+---
+layout: default
+title: "南京之旅"
+date: 2024-07-20
+categories: travel
+image: /assets/images/nanjing-scenery.jpg
+---
+
+<div class="home">
+  {% for post in site.posts %}
+    <article class="post-card {{ post.categories | join: ' ' }}">
+      <a href="{{ post.url | relative_url }}">
+        <div class="post-thumbnail">
+          {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+          {% else %}
+            <img src="/assets/images/default-thumbnail.jpg" alt="默认缩略图">
+          {% endif %}
+        </div>
+        <h2>{{ post.title }}</h2>
+        <div class="post-excerpt">
+          {{ post.excerpt | strip_html | truncate: 100 }}
+        </div>
+      </a>
+    </article>
+  {% endfor %}
+</div>

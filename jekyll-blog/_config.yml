@@ -1,0 +1,25 @@
+# Site Settings
+title: "吕茶月の樱花小筑"
+description: "代码与远方的交汇点"
+baseurl: ""
+url: "https://lcyxkwy.github.io"
+github_username: "lcyxkwy"
+
+# Theme Colors
+theme_colors:
+  nav: "#9c27b0"       # 导航栏紫色
+  tech: "#2196f3"      # 技术主题蓝色
+  travel: "#4caf50"    # 游记主题绿色
+  background: "#fff3e0"# 背景米白色
+
+# Avatar
+avatar: "/assets/images/avatar.jpg"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true

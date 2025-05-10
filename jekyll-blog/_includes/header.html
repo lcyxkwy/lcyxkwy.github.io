@@ -1,0 +1,22 @@
+<header>
+  <!-- 头像 -->
+  <a href="{{ '/' | relative_url }}">
+    <img src="{{ site.avatar }}" 
+         class="avatar" 
+         alt="吕茶月头像">
+  </a>
+
+  <!-- 导航栏 -->
+  <nav class="nav-bar">
+    <a href="{{ '/' | relative_url }}">🏠 首页</a>
+    <a href="/tech">💻 技术</a>
+    <a href="/travel">🌸 游记</a>
+    <a href="/about">📌 关于</a>
+  </nav>
+
+  <!-- GitHub Corner -->
+  <github-corner href="https://github.com/{{ site.github_username }}" 
+                size="60" 
+                banner-color="{{ site.theme_colors.nav }}">
+  </github-corner>
+</header>
