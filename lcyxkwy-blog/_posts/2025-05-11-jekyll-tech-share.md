@@ -5,7 +5,7 @@ date: 2025-05-11
 author: 吕茶月
 ---
 
-![Jekyll Logo](/assets/images/jekyll-logo.jpg)
+![Jekyll Logo]({{ '/assets/images/jekyll-logo.jpg' | relative_url }})
 
 Jekyll是一个简单的、博客友好的静态网站生成器。它使用Markdown文件来生成HTML页面，并且可以轻松地与GitHub Pages集成。
 
