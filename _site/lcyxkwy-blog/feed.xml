@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        
+        <description>
+          
+          You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...
+        </description>
+        <pubDate>Sun, 11 May 2025 11:03:14 +0000</pubDate>
+        <link>http://localhost:4000/lcyxkwy-blog/jekyll/update/2025/05/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lcyxkwy-blog/jekyll/update/2025/05/11/welcome-to-jekyll.html</guid>
+      </item>
+    
+      <item>
+        <title>南京鸡鸣寺樱花</title>
+        
+        <dc:creator><![CDATA[ 吕茶月 ]]></dc:creator>
+        
+        <description>
+          
+          
+
+南京鸡鸣寺的樱花每年春天都会吸引大量游客。这里的樱花树沿着古老的城墙绽放，形成了一道美丽的风景线。
+
+        </description>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/lcyxkwy-blog/2025/05/11/nanjing-cherry-blossoms.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lcyxkwy-blog/2025/05/11/nanjing-cherry-blossoms.html</guid>
+      </item>
+    
+      <item>
+        <title>Jekyll技术分享</title>
+        
+        <dc:creator><![CDATA[ 吕茶月 ]]></dc:creator>
+        
+        <description>
+          
+          
+
+Jekyll是一个简单的、博客友好的静态网站生成器。它使用Markdown文件来生成HTML页面，并且可以轻松地与GitHub Pages集成。
+
+在这篇文章中，我将分享一些使用Jekyll的技巧和最佳实践，包括如何自定义主题、添加插件以及优化网站性能。
+
+        </description>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/lcyxkwy-blog/2025/05/11/jekyll-tech-share.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lcyxkwy-blog/2025/05/11/jekyll-tech-share.html</guid>
+      </item>
+    
+      <item>
+        <title>Sample blog post to learn markdown tips</title>
+        
+        <dc:creator><![CDATA[ Bill Smith ]]></dc:creator>
+        
+        <description>
+          There&apos;s lots to learn! - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/lcyxkwy-blog/2020/02/28/sample-markdown.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lcyxkwy-blog/2020/02/28/sample-markdown.html</guid>
+      </item>
+    
+      <item>
+        <title>Flake it till you make it</title>
+        
+        <dc:creator><![CDATA[ Sharon Smith and Barry Simpson ]]></dc:creator>
+        
+        <description>
+          Excerpt from Soulshaping by Jeff Brown - 
+          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+        </description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/lcyxkwy-blog/2020/02/26/flake-it-till-you-make-it.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lcyxkwy-blog/2020/02/26/flake-it-till-you-make-it.html</guid>
+      </item>
+    
+  </channel>
+</rss>
